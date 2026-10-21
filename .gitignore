@@ -1,0 +1,7 @@
+# Build artifacts and private keys
+node_modules/
+artifacts/
+cache/
+coverage/
+typechain-types/
+.env
